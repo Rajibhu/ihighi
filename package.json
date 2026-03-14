@@ -1,0 +1,17 @@
+{
+  "name": "ai-media-detector",
+  "version": "1.0.0",
+  "description": "AI Generated Image & Video Detector using Hive AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "form-data": "^4.0.0",
+    "multer": "^1.4.5"
+  }
+}
